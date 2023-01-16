@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/royale/Documents/Solidity/thirdwebProjects/simpleCalc/web3/contracts/Calc.sol": {
+      "lastModificationDate": 1673862579630,
+      "contentHash": "db95e75616b841c8b2fab6f36060c919",
+      "sourceName": "contracts/Calc.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "= 0.8.17"
+      ],
+      "artifacts": [
+        "Calc"
+      ]
+    }
+  }
+}
